@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto', sans-serif;
+}
+
+body {
+    background-color: #E5E5E5;
+}
+
+
+.container {
+
+    text-align: center;
+    background: #2b1d11;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    height: 896px;
+    width: 414px;
+    left: 986px;
+    top: 127px;
+    border-radius: 40px;
+    border-color: #0f0701;
+    border: 30px;
+    box-shadow: 2px 2px 2px 5px #F18836;
+
+}
+
+
+h1 {
+
+    color: #E0F6FF;
+    font-size: 29px;
+    line-height: 39px;
+    margin-top: 19px;
+}
+
+
+input {
+
+    height: 50px;
+    width: 300px;
+    left: 57px;
+    top: 447px;
+    border-radius: 20px;
+    background: #F1D7B4 20% ;
+    padding-right: 15px;
+    font-size: 20px;
+    padding-left: 16px;
+    box-shadow: 2px 2px 2px #F18836;
+    box-shadow: 0px 2px 1px 2px #F18836;
+    
+    
+
+}
+
+
+.p-input0 {
+    margin-top: 35px;
+    color: #D6F1FD;
+    margin-right: 220px;
+    margin-bottom: 6px;
+
+}
+
+.p-input1 {
+    margin-top: 28px;
+    color: #D6F1FD;
+    margin-right: 220px;
+    margin-bottom: 7px;
+    
+
+
+}
+
+.p-input2 {
+    margin-top: 7px;
+    color: #D6F1FD;
+    margin-right: 220px;
+    margin-bottom: 7px;
+
+}
+
+
+.account-text {
+
+    margin-top: 19px;
+    font-size: 14px;
+    color: #D6F1FD;
+    margin-left: 94px;
+
+}
+
+.cadastro {
+    font-size: 14px;
+    color:#A3E3FF;
+}
+
+.forgot {
+
+margin-top: 19px;
+font-size: 14px;
+color: #D6F1FD;
+margin-left: 150px;
+
+}
+
+
+button {
+
+margin-top: 28px;
+height: 50px;
+width: 300px;
+border-radius: 20px;
+background-color: #0f0701;
+color: #D6F1FD ;
+font-size: 20px;
+border-color:#F18836 ;
+
+
+}
+
+
+button:hover {
+    opacity: 0.9;
+}
+
+
+button:active {
+    opacity: 0.7;
+}
+
+
