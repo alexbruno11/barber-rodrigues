@@ -51,7 +51,7 @@ input {
     padding-left: 16px;
     box-shadow: 2px 2px 2px #F18836;
     box-shadow: 0px 2px 1px 2px #F18836;
-    
+    outline: none;
     
 
 }
@@ -62,6 +62,7 @@ input {
     color: #D6F1FD;
     margin-right: 220px;
     margin-bottom: 7px;
+ 
     
 
 
@@ -72,6 +73,7 @@ input {
     color: #D6F1FD;
     margin-right: 220px;
     margin-bottom: 7px;
+    
 
 }
 

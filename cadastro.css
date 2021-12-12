@@ -66,7 +66,7 @@ input {
 }
 
 .p-input1 {
-    margin-top: 28px;
+    margin-top: 20px;
     color: #D6F1FD;
     margin-right: 220px;
     margin-bottom: 7px;
@@ -76,9 +76,9 @@ input {
 }
 
 .p-input2 {
-    margin-top: 7px;
+    margin-top: 16px;
     color: #D6F1FD;
-    margin-right: 220px;
+    margin-right: 195px;
     margin-bottom: 7px;
 
 }
@@ -89,7 +89,7 @@ input {
     margin-top: 19px;
     font-size: 14px;
     color: #D6F1FD;
-    margin-left: 94px;
+    margin-left: 140px;
 
 }
 
