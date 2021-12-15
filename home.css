@@ -75,18 +75,47 @@ button {
     border-color: #F18836;
 }
 
-.footer {
 
-    background: #0f0701;
+
+footer {
+
+
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    flex-direction: row;
+    background-color: black;
     width: 414px;
     height: 70px;
-    margin-top: 180px;
-    top: 834px;
+    margin-top: 177px;
     border-radius: 25px;
-    background: #000000;
-    display: flex ;
-    justify-content: center ;
-    flex-direction: row;
-    align-items: flex-end;
-    
+    padding-bottom: 15px;
+}
+
+.imgs1 footer.sobrepor img {
+
+    position: absolute;
+    padding-bottom: 80px;
+
+}
+
+img.book {
+
+    margin-block-start: auto;
+    margin-top: 55px;
+}
+
+img.house {
+
+    margin-inline-start: auto;
+    margin-left: -150px;
+
+}
+
+
+img.user {
+
+    margin-inline-start: auto;
+    margin-left: 150px;
+
 }
