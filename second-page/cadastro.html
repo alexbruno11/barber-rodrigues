@@ -9,10 +9,10 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="slyles.css">
-    <link rel="shortcut icon" href="assets/favicon_io (1)/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="cadastro.css">
+    <link rel="shortcut icon" href="./../assets/favicon_io (1)/favicon.ico" type="image/x-icon">
 
-    <title>Barbearia Rodrigues</title>
+    <title>Cadastro</title>
 
 </head>
 
@@ -22,38 +22,40 @@
 
         <header>
             
-            <img id="logo" src="assets/logo-barber300x300.png" alt="logo-rodrigues">
+            <img id="logo" src="./../assets/logo-barber300x300.png" alt="logo-rodrigues">
          
         </header>
         <main>
             <h1>Barbearia Rodrigues</h1>
             <div>
+                
+                <p class="p-input0">Nome</p>
+                <label for="input">
+                    <input type="nome" placeholder="Digite seu nome" class="inside-input0">
+                </label>
+                
+
                 <p class="p-input1">E-mail</p>
-                <label for="input" class="icon-email">
-                   
-                    <input type="e-mail" placeholder="exemplo@exemplo.com" class="text-input1">
-                   
+                <label for="input">
+                    <input type="e-mail" placeholder="exemplo@exemplo.com" class="inside-input1">
                 </label>
 
-                <p class="p-input2">Senha</p>
+                <p class="p-input2">Criar senha</p>
 
                 <label for="input">
-                  
-                    <input type="password" placeholder="*******" required minlength="6" maxlength="8" class="text-input2">
-                    
+                    <input type="senha" placeholder="*******" class="inside-input2">
                 </label>
 
 
             </div>
             <div>
-                <p class="account-text">Não tem conta? <b class="cadastro">Cadastre-se</b> </p> 
+                <p class="account-text"> Já tem conta? <b class="cadastro">Entrar </p> 
                
-                <p class="forgot">Esqueceu a senha?</p>
 
             </div>
 
 
-            <button type="submit">Login</button>
+            <button>Cadastrar</button>
 
 
         </main>

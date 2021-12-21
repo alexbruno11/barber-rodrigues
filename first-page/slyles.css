@@ -51,67 +51,53 @@ input {
     padding-left: 16px;
     box-shadow: 2px 2px 2px #F18836;
     box-shadow: 0px 2px 1px 2px #F18836;
+    outline: none;
     padding-left: 45px;
     
-    
-
 }
 
-
-.p-input0 {
-    margin-top: 35px;
-    color: #D6F1FD;
-    margin-right: 220px;
-    margin-bottom: 6px;
-
-}
 
 .p-input1 {
-    margin-top: 20px;
+    margin-top: 74px;
     color: #D6F1FD;
     margin-right: 220px;
     margin-bottom: 7px;
+ 
+    
+ 
     
 
 
 }
 
 .p-input2 {
-    margin-top: 16px;
+    margin-top: 7px;
     color: #D6F1FD;
-    margin-right: 195px;
+    margin-right: 220px;
     margin-bottom: 7px;
-
+   
 }
 
 
+.text-input1 {
 
-.inside-input0 {
-
-    background-image:url(assets/person\ 1.png);
+    background-image:url(./../assets/email\ 1.png);
 	background-repeat:no-repeat;  
     background-position: 13px;
     
-}
 
-.inside-input1 {
-
-    background-image:url(assets/email\ 1.png);
-	background-repeat:no-repeat;  
-    background-position: 13px;
-    
 }
 
 
-.inside-input2 {
+.text-input2 {
 
-    background-image:url(assets/lock\ 1.png);
+    background-image:url(./../assets/lock\ 1.png);
 	background-repeat:no-repeat;  
     background-position: 13px;
     padding-top: 10px ;
     
-}
 
+}
 
 
 .account-text {
@@ -119,7 +105,7 @@ input {
     margin-top: 19px;
     font-size: 14px;
     color: #D6F1FD;
-    margin-left: 140px;
+    margin-left: 94px;
 
 }
 
