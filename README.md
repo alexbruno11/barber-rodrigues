@@ -1,6 +1,6 @@
 # Barber-Rodrigues Booking System
 
-<img src="../assets/1.png" alt="img-readeMe">
+<img src="../assets/razor.png" alt="img-readeMe">
 
 <img src="../assets/2.png" alt="img-readeMe">
 
